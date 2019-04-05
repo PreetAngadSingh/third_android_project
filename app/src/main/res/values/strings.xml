@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cricket Quiz App</string>
+    <string name="question_1">What is taking 3 wickets in 3 consecutive balls called?</string>
+    <string name="hattrick">Hat-Trick</string>
+    <string name="bowltrick">Bowl-Trick</string>
+    <string name="question2">Who was the First Batsman to hit 6 sixes in an over in T20Is?</string>
+    <string name="hgibbs">Herschelle Gibbs</string>
+    <string name="yuvi">Yuvraj Singh</string>
+    <string name="msdhoni">Mahendra Singh Dhoni</string>
+    <string name="chris">Chris Gayle</string>
+    <string name="question3">Ashes is played between which 2 teams?</string>
+    <string name="india">India</string>
+    <string name="england">England</string>
+    <string name="south_africa">South Africa</string>
+    <string name="australia">Australia</string>
+    <string name="question4">The only player to hit 100 centuries in internatonal cricket is</string>
+    <string name="ricky">Ricky Ponting</string>
+    <string name="kumar">Kumar Sangakkara</string>
+    <string name="sachin">Sachin Tendulkar</string>
+    <string name="clarke">Michael Clarke</string>
+    <string name="question5">Leg Before Wicket is a way of getting out in Cricket?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question6">Which format is plaed in white jersey from following Test/ODI/T20?</string>
+</resources>
